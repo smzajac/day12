@@ -1,0 +1,42 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+}
+
+/*h3{
+  border-bottom: solid;
+}*/
+
+div .bio{
+text-align: center;
+padding: 10px;
+padding-bottom: 100px;
+}
+
+.smallerFont{
+  font-size: 14px;
+}
+
+.ssn{
+  font-size: 12px;
+  color: green;
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.picture{
+  width: 260px;
+}
+
+.personName span{
+  border-bottom: solid green 1px;
+}
